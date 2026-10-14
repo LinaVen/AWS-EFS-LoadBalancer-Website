@@ -100,3 +100,22 @@ Lina Venckus (Venckuviene)
 Computer Science Graduate
 
 Atlantic Technological University (ATU)
+
+## Project Screenshots
+
+The following screenshots demonstrate the AWS infrastructure configured for this project.
+
+### 1. VPC Configuration
+![VPC Configuration](screenshots/vpc_configuration.png)
+
+### 2. EC2 Instances
+![EC2 Instances](screenshots/ec2_instances.png)
+
+### 3. Amazon EFS
+![Amazon EFS](screenshots/efs_file_system.png)
+
+### 4. Target Group
+![Target Group](screenshots/target_group_health_checks.png)
+
+### 5. Application Load Balancer
+![Application Load Balancer](screenshots/application_load_balancer.png)
