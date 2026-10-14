@@ -95,8 +95,8 @@ This project demonstrates practical experience with:
 
 ## Author
 
-Lina Venckuviene
+Lina Venckus (Venckuviene)
 
-Computer Science Student
+Computer Science Graduate
 
 Atlantic Technological University (ATU)
