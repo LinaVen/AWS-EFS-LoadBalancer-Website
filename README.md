@@ -17,6 +17,27 @@ This project involved building a scalable website using multiple AWS services. T
 * Amazon IAM
 * Amazon Machine Image (AMI)
 
+## Architecture Flow
+
+```text
+Internet Users
+      |
+      v
+Application Load Balancer
+      |
+      v
+Auto Scaling Group
+      |
+      v
+EC2 Web Servers (Apache + PHP)
+      |
+      +----> Amazon EFS (Shared Website Files)
+      |
+      +----> Amazon S3 (File Uploads)
+
+Infrastructure: Amazon VPC, Subnets, Security Groups, IAM
+```
+
 ## Features Implemented
 
 ### Virtual Private Cloud (VPC)
